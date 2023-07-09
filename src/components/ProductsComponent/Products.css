@@ -1,0 +1,42 @@
+.input-width {
+    max-width: 100%;
+}
+
+.modal-width {
+    max-width: 70%;
+}
+
+.input-title {
+    min-width: 28%;
+}
+
+.actions-class {
+    display: flex;
+    justify-content: space-between;
+    max-width: 30%;
+}
+
+.filter-class{
+    display: flex;
+    width: 70%;
+    margin-bottom: 0.6rem;
+}
+
+.filter-input {
+    width: 85%;
+    margin-left: 0rem !important;
+}
+
+.input-div {
+    width: 60%;
+}
+
+
+
+.button-border {
+    border: solid white 3px !important;
+}
+
+.sort-icons {
+    margin-bottom: 0.6rem;
+}
